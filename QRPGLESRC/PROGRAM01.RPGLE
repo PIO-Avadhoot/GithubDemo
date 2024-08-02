@@ -5,7 +5,7 @@
      D XOWHS3                  3      3                                  
      D XVWHSE          S              3                                  
      D XVWHSE5         S              5                                  
-      *                                                                  
+      * MAIN PROCESS
      C     *ENTRY        PLIST                                           
      C                   PARM                    P_WHSN            3     
      C                   MOVE      P_WHSN        XOWHSE                  
