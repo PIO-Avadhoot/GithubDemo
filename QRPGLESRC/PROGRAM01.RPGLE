@@ -14,6 +14,6 @@
      C                   EVAL      %SUBST(XVWHSE5:1:1) ='1'              
      C                   EVAL      %SUBST(XVWHSE5:4:2) ='  '             
      c     XVWHSE5       DSPLY                                           
-      *                                                                  
+      *  END OF PROGRAM                                                                
      C                   EVAL      *INLR = *ON                           
       *                                                                  
