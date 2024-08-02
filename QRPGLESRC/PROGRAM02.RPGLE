@@ -4,3 +4,4 @@
      C                   MOVE      ITEMN         ITEM                    
      C     item          dsply                                           
      C                   SETON                                        LR 
+      *END OF PROGRAM
